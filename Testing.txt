@@ -1,0 +1,44 @@
+Insurance:
+
+-----------------------------
+
+Enhance the visual design and layout of the login page to make it more user-friendly.
+
+Make all pages responsive to ensure a consistent and optimal user experience across different devices and screen sizes.
+
+Revise the policy schedule page to align with the overall design and style of the application for a good look.
+
+Address issues with downloading Excel and PDF files on the policy schedule page to ensure seamless functionality.
+
+Implement proper validations within the total claims modules on the ask documents page.
+
+Need to Fix the download ZIP functionality to allow users to access their files efficiently.
+
+Review and refine the claim tracking steps to make them more user-friendly.
+
+Hospital:
+
+--------------
+
+No security
+
+Apply responsive design principles to all pages within the hospital module to improve accessibility on various devices.
+
+Consider using relative paths instead of absolute paths for document links to ensure they open correctly.
+
+Resolve the dropdown issues on the list packages and payment pages to enable smooth selection and updating.
+
+Differentiate between the "About," "Home," and "Dashboard" pages to provide users with clear and distinct content.
+
+Need to fix the logout functionality to ensure users can securely log out of their accounts.
+
+
+
+Customers:
+
+------------------------
+
+No security
+
+
+
