@@ -26,11 +26,8 @@ Apply responsive design principles to all pages within the hospital module to im
 
 Consider using relative paths instead of absolute paths for document links to ensure they open correctly.
 
-Resolve the dropdown issues on the list packages and payment pages to enable smooth selection and updating.
-
 Differentiate between the "About," "Home," and "Dashboard" pages to provide users with clear and distinct content.
 
-Need to fix the logout functionality to ensure users can securely log out of their accounts.
 
 
 
